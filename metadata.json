@@ -2,6 +2,6 @@
   "name": "pingpong",
   "website": "https://www.pingpong.build/",
   "description": "PINGPONG can run any DePINs",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/sleeply7777/chainbase/main/PINGPONG.png",
   "twitter": "https://x.com/pingpongbuild"
 }
